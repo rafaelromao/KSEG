@@ -63,7 +63,7 @@ The registration of the source code in a version control system gives more flexi
 The modification history provided by the version control system also allow any version of the software artifact to be recovered and modified, if necessary.
 Strategies like the [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) are realy helpful when differente features and versions of a software artifact or system must be maintained.
 
-**1.5.** ** Every software artifact MUST have its specifications verified by automated tests.**
+**1.5.** **Every software artifact MUST have its specifications verified by automated tests.**
 The use of formal specifications, verified by automated tests, allow the developers to delimit their tasks and be notified when their implementations does not satisfy what is expected, as well as when something changed breaks working functionalities.
 Such specifications can be implemented using methodologies like [Specification By Example](http://martinfowler.com/bliki/SpecificationByExample.html) or [Test-Driven Development](http://c2.com/cgi/wiki?TestDrivenDevelopment).
 
@@ -120,7 +120,7 @@ At every moment, all stackholders, including the development team, must have acc
 **3.1.** **Every software project MUST be supervised by a Project Management Office.**
 A project management office is a division of the organization that rules the development of software projects and they shall be responsible for the supervision of every software project in execution.
 
-**3.2.** ** Every software project MUST have a Project Manager.**
+**3.2.** **Every software project MUST have a Project Manager.**
 While every software artifact or system must always have a owner, a software project must have a project manager, which will be responsible for the management of the project and the delivery of the defined scope within the cost and time, as well as manage the development team accordingly.
 It is important to emphasize that role of the project manager can not be confused with the role of the technical leader.
 
@@ -163,10 +163,9 @@ Software development teams tend to be passionate about their work and recognitio
 Some times it is also necessary just to make clear that that project is indeead done, and is not being perpetually extended or something like that.
 
 ##Final considerations
-
 Different methodologies, practices, techniques and technologies may be used to follow the guidelines in this article. That allows the team to have the flexibility they need and still work in an organized manner.
 
-And as expected for any open sourced project, this set of guidelines may change at any time and the feedback of the community is well appreciated.
+And as expected for any open sourced project, this set of guidelines may change at any time and the feedback from the community is well appreciated.
 
 ## License
 Creative Commons - CC0 1.0 Universal
@@ -175,5 +174,6 @@ Creative Commons - CC0 1.0 Universal
 SemVer 2.0
 
 ## About
-Version: 1.0.0
+Version: 1.0.1
+
 Authored by [Rafael Romão](https://github.com/rafaelromao/) in August, 2015
