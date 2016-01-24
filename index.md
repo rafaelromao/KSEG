@@ -3,7 +3,7 @@ title: KSEG - Key Software Engineering Guidelines
 layout: page
 ---
 
-A set of key guidelines for keeping software development under control
+A set of key guidelines for keeping software development under control.
 
 ## Objective
 
