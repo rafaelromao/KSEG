@@ -1,5 +1,5 @@
 ---
 layout: nil
 ---
-{% include defaut.css %}
-{% include fonts.css %}
+{% include {{ site.baseurl }}/public/default.css %}
+{% include {{ site.baseurl }}/public/fonts.css %}
