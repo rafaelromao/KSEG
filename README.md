@@ -174,6 +174,6 @@ Creative Commons - CC0 1.0 Universal
 SemVer 2.0
 
 ## About
-Version: 1.0.1
+Version: 1.1.0
 
 Authored by [Rafael Romão](https://github.com/rafaelromao/) in August, 2015
