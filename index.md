@@ -183,5 +183,3 @@ Version: 1.1.0
 GitHub Project: [KSEG](https://github.com/rafaelromao/KSEG)
 
 Authored by [Rafael Romão](https://github.com/rafaelromao/) in August, 2015
-
-Template by [TEMPLATED]()http://templated.co/embellished)
