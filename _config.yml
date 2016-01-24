@@ -11,7 +11,7 @@ title:            KSEG - Key Software Engineering Guidelines
 tagline:          'KSEG'
 description:      ''
 url:              rafaelromao.github.io/KSEG
-baseurl:          /kseg
+baseurl:          /kseg/
 
 author:
   name:           'Rafael Romão'
