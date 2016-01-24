@@ -102,7 +102,7 @@ Since software artifacts are indended to be reused, internally to the organizati
 In some cases, the reuse will be allowed only internally to the organization. Other times, no reuse will be allowed at the time. Anyway, it is always necessary to have the license terms explicitated in the software artifact's documentation.
 For open source projects, information about the most common license terms can be found at [http://opensource.org/licenses](http://opensource.org/licenses).
 
-**KEG-SW 1.14.** **Relevant software artifact MAY have its evolution published in management boards.**
+**KSEG 1.14.** **Relevant software artifact MAY have its evolution published in management boards.**
 The owner of a software artifact may decide to publish its evolution in a management board. For small software artifacts, this is often not needed, but for large ones they might be necessary.
 
 ## KSEG 2. Guidelines for development of Software Systems
