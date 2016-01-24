@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            KSEG - Key Software Engineering Guidelines
 tagline:          'KSEG'
 description:      ''
-url:              rafaelromao.github.io/KSEG
+#url:              rafaelromao.github.io/KSEG
 baseurl:          /kseg
 
 author:
