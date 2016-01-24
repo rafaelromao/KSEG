@@ -19,7 +19,7 @@ The motivation for this article comes from the need to stabilish a set of guidel
 
 ## Format
 
-This article presents a set of definitions followed by a set of guidelines to organized the production of software and management of software projects.
+This article presents some definitions followed by a set of key guidelines to keep the production of software and management of software projects under control.
 
 The guideline names and reference codes will be highlighted in **bold** font.
 
